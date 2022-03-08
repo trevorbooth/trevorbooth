@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Trevor
 - 👀 I am interested in Front-End Development.
-- 🌱 Currenlty working on improving my JS & React.
-- 🔪 Working on my Serial Killer API 
 - 📫 trevor@goldmorel.com
 
 <!---
