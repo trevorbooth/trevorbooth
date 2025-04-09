@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Trevor
-- 👀 I am interested in Front-End Development.
-- 📫 trevor@goldmorel.com
 
 <!---
 trevorbooth/trevorbooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
